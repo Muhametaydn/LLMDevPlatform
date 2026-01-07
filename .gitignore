@@ -1,0 +1,16 @@
+# .NET
+LLMDevPlatform.API/bin/
+LLMDevPlatform.API/obj/
+LLMDevPlatform.API/.vs/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Python
+llm-service/__pycache__/
+llm-service/.venv/
+
+# General
+.env
+.vs/
